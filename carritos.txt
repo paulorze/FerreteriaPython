@@ -1,1 +1,49 @@
-[{"username": "admin", "mail": "admin@admin.com", "productos": []}, {"username": "user", "mail": "user@user.com", "productos": [{"codigo": "H00001", "nombre": "Destornillador", "categoria": "Herramienta", "cantidad_solicitada": 12}, {"codigo": "H00002", "nombre": "Martillo", "categoria": "Herramienta", "cantidad_solicitada": 12}, {"codigo": "C00012", "nombre": "Espejo", "categoria": "Casa", "cantidad_solicitada": 20}]}]
+[
+  {
+    "username": "admin",
+    "mail": "admin@admin.com",
+    "productos": []
+  },
+  {
+    "username": "user",
+    "mail": "user@user.com",
+    "productos": [
+      {
+        "codigo": "H00001",
+        "nombre": "Destornillador",
+        "categoria": "Herramienta",
+        "cantidad_solicitada": 12
+      },
+      {
+        "codigo": "H00002",
+        "nombre": "Martillo",
+        "categoria": "Herramienta",
+        "cantidad_solicitada": 12
+      },
+      {
+        "codigo": "C00012",
+        "nombre": "Espejo",
+        "categoria": "Casa",
+        "cantidad_solicitada": 20
+      }
+    ]
+  },
+  {
+    "username": "leila",
+    "mail": "leila@leila.com",
+    "productos": [
+      {
+        "codigo": "H00001",
+        "nombre": "Destornillador",
+        "categoria": "Herramienta",
+        "cantidad_solicitada": 12
+      },
+      {
+        "codigo": "B00004",
+        "nombre": "Coj\u00edn decorativo",
+        "categoria": "Bazaar",
+        "cantidad_solicitada": 12
+      }
+    ]
+  }
+]

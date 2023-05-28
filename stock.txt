@@ -1,1 +1,317 @@
-[{"codigo": "H00001", "nombre": "Destornillador", "categoria": "Herramienta", "cantidad": 57, "esNacional": true}, {"codigo": "H00002", "nombre": "Martillo", "categoria": "Herramienta", "cantidad": 81, "esNacional": false}, {"codigo": "H00003", "nombre": "Llave inglesa", "categoria": "Herramienta", "cantidad": 23, "esNacional": true}, {"codigo": "H00004", "nombre": "Sierra el\u00e9ctrica", "categoria": "Herramienta", "cantidad": 46, "esNacional": false}, {"codigo": "H00005", "nombre": "Cinta m\u00e9trica", "categoria": "Herramienta", "cantidad": 64, "esNacional": true}, {"codigo": "H00006", "nombre": "Nivel de burbuja", "categoria": "Herramienta", "cantidad": 37, "esNacional": false}, {"codigo": "H00007", "nombre": "Taladro", "categoria": "Herramienta", "cantidad": 95, "esNacional": true}, {"codigo": "H00008", "nombre": "Alicate", "categoria": "Herramienta", "cantidad": 12, "esNacional": true}, {"codigo": "H00009", "nombre": "Destornillador de estrella", "categoria": "Herramienta", "cantidad": 74, "esNacional": false}, {"codigo": "H00010", "nombre": "Llave de tubo", "categoria": "Herramienta", "cantidad": 31, "esNacional": true}, {"codigo": "H00011", "nombre": "Taladro inal\u00e1mbrico", "categoria": "Herramienta", "cantidad": 62, "esNacional": false}, {"codigo": "H00012", "nombre": "Serrucho", "categoria": "Herramienta", "cantidad": 48, "esNacional": true}, {"codigo": "H00013", "nombre": "Pinzas", "categoria": "Herramienta", "cantidad": 89, "esNacional": false}, {"codigo": "H00014", "nombre": "Nivel l\u00e1ser", "categoria": "Herramienta", "cantidad": 19, "esNacional": true}, {"codigo": "H00015", "nombre": "Tornillo", "categoria": "Herramienta", "cantidad": 76, "esNacional": false}, {"codigo": "C00001", "nombre": "Sof\u00e1", "categoria": "Casa", "cantidad": 32, "esNacional": true}, {"codigo": "C00002", "nombre": "Mesa de comedor", "categoria": "Casa", "cantidad": 56, "esNacional": false}, {"codigo": "C00003", "nombre": "Cama", "categoria": "Casa", "cantidad": 78, "esNacional": true}, {"codigo": "C00004", "nombre": "Silla", "categoria": "Casa", "cantidad": 19, "esNacional": false}, {"codigo": "C00005", "nombre": "Escritorio", "categoria": "Casa", "cantidad": 45, "esNacional": true}, {"codigo": "C00006", "nombre": "L\u00e1mpara de mesa", "categoria": "Casa", "cantidad": 65, "esNacional": false}, {"codigo": "C00007", "nombre": "Estanter\u00eda", "categoria": "Casa", "cantidad": 28, "esNacional": true}, {"codigo": "C00008", "nombre": "Televisi\u00f3n", "categoria": "Casa", "cantidad": 93, "esNacional": true}, {"codigo": "C00009", "nombre": "Mesa de centro", "categoria": "Casa", "cantidad": 12, "esNacional": false}, {"codigo": "C00010", "nombre": "Silla de escritorio", "categoria": "Casa", "cantidad": 71, "esNacional": true}, {"codigo": "C00011", "nombre": "Armario", "categoria": "Casa", "cantidad": 37, "esNacional": false}, {"codigo": "C00012", "nombre": "Espejo", "categoria": "Casa", "cantidad": 84, "esNacional": true}, {"codigo": "C00013", "nombre": "Cortinas", "categoria": "Casa", "cantidad": 23, "esNacional": false}, {"codigo": "C00014", "nombre": "Mesa de noche", "categoria": "Casa", "cantidad": 67, "esNacional": true}, {"codigo": "C00015", "nombre": "Frigor\u00edfico", "categoria": "Casa", "cantidad": 41, "esNacional": false}, {"codigo": "B00001", "nombre": "Jarr\u00f3n decorativo", "categoria": "Bazaar", "cantidad": 63, "esNacional": true}, {"codigo": "B00002", "nombre": "Alfombra", "categoria": "Bazaar", "cantidad": 42, "esNacional": false}, {"codigo": "B00003", "nombre": "Candelabro", "categoria": "Bazaar", "cantidad": 27, "esNacional": true}, {"codigo": "B00004", "nombre": "Coj\u00edn decorativo", "categoria": "Bazaar", "cantidad": 88, "esNacional": false}, {"codigo": "B00005", "nombre": "Reloj de pared", "categoria": "Bazaar", "cantidad": 51, "esNacional": true}, {"codigo": "B00006", "nombre": "Caja de almacenamiento", "categoria": "Bazaar", "cantidad": 19, "esNacional": false}, {"codigo": "B00007", "nombre": "Espejo de pared", "categoria": "Bazaar", "cantidad": 76, "esNacional": true}, {"codigo": "B00008", "nombre": "Cuadro decorativo", "categoria": "Bazaar", "cantidad": 34, "esNacional": true}, {"codigo": "B00009", "nombre": "L\u00e1mpara de techo", "categoria": "Bazaar", "cantidad": 57, "esNacional": false}, {"codigo": "B00010", "nombre": "Centro de mesa", "categoria": "Bazaar", "cantidad": 23, "esNacional": true}, {"codigo": "B00011", "nombre": "Portavelas", "categoria": "Bazaar", "cantidad": 68, "esNacional": false}, {"codigo": "B00012", "nombre": "Caja de m\u00fasica", "categoria": "Bazaar", "cantidad": 45, "esNacional": true}, {"codigo": "B00013", "nombre": "Tapiz de pared", "categoria": "Bazaar", "cantidad": 32, "esNacional": false}, {"codigo": "B00014", "nombre": "Adorno de cer\u00e1mica", "categoria": "Bazaar", "cantidad": 71, "esNacional": true}, {"codigo": "B00015", "nombre": "Figura de Buda", "categoria": "Bazaar", "cantidad": "45", "esNacional": false}]
+[
+  {
+    "codigo": "H00001",
+    "nombre": "Destornillador",
+    "categoria": "Herramienta",
+    "cantidad": 57,
+    "esNacional": true
+  },
+  {
+    "codigo": "H00002",
+    "nombre": "Martillo",
+    "categoria": "Herramienta",
+    "cantidad": 81,
+    "esNacional": false
+  },
+  {
+    "codigo": "H00003",
+    "nombre": "Llave inglesa",
+    "categoria": "Herramienta",
+    "cantidad": 23,
+    "esNacional": true
+  },
+  {
+    "codigo": "H00004",
+    "nombre": "Sierra el\u00e9ctrica",
+    "categoria": "Herramienta",
+    "cantidad": 46,
+    "esNacional": false
+  },
+  {
+    "codigo": "H00005",
+    "nombre": "Cinta m\u00e9trica",
+    "categoria": "Herramienta",
+    "cantidad": 64,
+    "esNacional": true
+  },
+  {
+    "codigo": "H00006",
+    "nombre": "Nivel de burbuja",
+    "categoria": "Herramienta",
+    "cantidad": 37,
+    "esNacional": false
+  },
+  {
+    "codigo": "H00007",
+    "nombre": "Taladro",
+    "categoria": "Herramienta",
+    "cantidad": 95,
+    "esNacional": true
+  },
+  {
+    "codigo": "H00008",
+    "nombre": "Alicate",
+    "categoria": "Herramienta",
+    "cantidad": 12,
+    "esNacional": true
+  },
+  {
+    "codigo": "H00009",
+    "nombre": "Destornillador de estrella",
+    "categoria": "Herramienta",
+    "cantidad": 74,
+    "esNacional": false
+  },
+  {
+    "codigo": "H00010",
+    "nombre": "Llave de tubo",
+    "categoria": "Herramienta",
+    "cantidad": 31,
+    "esNacional": true
+  },
+  {
+    "codigo": "H00011",
+    "nombre": "Taladro inal\u00e1mbrico",
+    "categoria": "Herramienta",
+    "cantidad": 62,
+    "esNacional": false
+  },
+  {
+    "codigo": "H00012",
+    "nombre": "Serrucho",
+    "categoria": "Herramienta",
+    "cantidad": 48,
+    "esNacional": true
+  },
+  {
+    "codigo": "H00013",
+    "nombre": "Pinzas",
+    "categoria": "Herramienta",
+    "cantidad": 89,
+    "esNacional": false
+  },
+  {
+    "codigo": "H00014",
+    "nombre": "Nivel l\u00e1ser",
+    "categoria": "Herramienta",
+    "cantidad": 19,
+    "esNacional": true
+  },
+  {
+    "codigo": "H00015",
+    "nombre": "Tornillo",
+    "categoria": "Herramienta",
+    "cantidad": 76,
+    "esNacional": false
+  },
+  {
+    "codigo": "C00001",
+    "nombre": "Sof\u00e1",
+    "categoria": "Casa",
+    "cantidad": 32,
+    "esNacional": true
+  },
+  {
+    "codigo": "C00002",
+    "nombre": "Mesa de comedor",
+    "categoria": "Casa",
+    "cantidad": 56,
+    "esNacional": false
+  },
+  {
+    "codigo": "C00003",
+    "nombre": "Cama",
+    "categoria": "Casa",
+    "cantidad": 78,
+    "esNacional": true
+  },
+  {
+    "codigo": "C00004",
+    "nombre": "Silla",
+    "categoria": "Casa",
+    "cantidad": 19,
+    "esNacional": false
+  },
+  {
+    "codigo": "C00005",
+    "nombre": "Escritorio",
+    "categoria": "Casa",
+    "cantidad": 45,
+    "esNacional": true
+  },
+  {
+    "codigo": "C00006",
+    "nombre": "L\u00e1mpara de mesa",
+    "categoria": "Casa",
+    "cantidad": 65,
+    "esNacional": false
+  },
+  {
+    "codigo": "C00007",
+    "nombre": "Estanter\u00eda",
+    "categoria": "Casa",
+    "cantidad": 28,
+    "esNacional": true
+  },
+  {
+    "codigo": "C00008",
+    "nombre": "Televisi\u00f3n",
+    "categoria": "Casa",
+    "cantidad": 93,
+    "esNacional": true
+  },
+  {
+    "codigo": "C00009",
+    "nombre": "Mesa de centro",
+    "categoria": "Casa",
+    "cantidad": 12,
+    "esNacional": false
+  },
+  {
+    "codigo": "C00010",
+    "nombre": "Silla de escritorio",
+    "categoria": "Casa",
+    "cantidad": 71,
+    "esNacional": true
+  },
+  {
+    "codigo": "C00011",
+    "nombre": "Armario",
+    "categoria": "Casa",
+    "cantidad": 37,
+    "esNacional": false
+  },
+  {
+    "codigo": "C00012",
+    "nombre": "Espejo",
+    "categoria": "Casa",
+    "cantidad": 84,
+    "esNacional": true
+  },
+  {
+    "codigo": "C00013",
+    "nombre": "Cortinas",
+    "categoria": "Casa",
+    "cantidad": 23,
+    "esNacional": false
+  },
+  {
+    "codigo": "C00014",
+    "nombre": "Mesa de noche",
+    "categoria": "Casa",
+    "cantidad": 67,
+    "esNacional": true
+  },
+  {
+    "codigo": "C00015",
+    "nombre": "Frigor\u00edfico",
+    "categoria": "Casa",
+    "cantidad": 41,
+    "esNacional": false
+  },
+  {
+    "codigo": "B00001",
+    "nombre": "Jarr\u00f3n decorativo",
+    "categoria": "Bazaar",
+    "cantidad": 63,
+    "esNacional": true
+  },
+  {
+    "codigo": "B00002",
+    "nombre": "Alfombra",
+    "categoria": "Bazaar",
+    "cantidad": 42,
+    "esNacional": false
+  },
+  {
+    "codigo": "B00003",
+    "nombre": "Candelabro",
+    "categoria": "Bazaar",
+    "cantidad": 27,
+    "esNacional": true
+  },
+  {
+    "codigo": "B00004",
+    "nombre": "Coj\u00edn decorativo",
+    "categoria": "Bazaar",
+    "cantidad": 88,
+    "esNacional": false
+  },
+  {
+    "codigo": "B00005",
+    "nombre": "Reloj de pared",
+    "categoria": "Bazaar",
+    "cantidad": 51,
+    "esNacional": true
+  },
+  {
+    "codigo": "B00006",
+    "nombre": "Caja de almacenamiento",
+    "categoria": "Bazaar",
+    "cantidad": 19,
+    "esNacional": false
+  },
+  {
+    "codigo": "B00007",
+    "nombre": "Espejo de pared",
+    "categoria": "Bazaar",
+    "cantidad": 76,
+    "esNacional": true
+  },
+  {
+    "codigo": "B00008",
+    "nombre": "Cuadro decorativo",
+    "categoria": "Bazaar",
+    "cantidad": 34,
+    "esNacional": true
+  },
+  {
+    "codigo": "B00009",
+    "nombre": "L\u00e1mpara de techo",
+    "categoria": "Bazaar",
+    "cantidad": 57,
+    "esNacional": false
+  },
+  {
+    "codigo": "B00010",
+    "nombre": "Centro de mesa",
+    "categoria": "Bazaar",
+    "cantidad": 23,
+    "esNacional": true
+  },
+  {
+    "codigo": "B00011",
+    "nombre": "Portavelas",
+    "categoria": "Bazaar",
+    "cantidad": 68,
+    "esNacional": false
+  },
+  {
+    "codigo": "B00012",
+    "nombre": "Caja de m\u00fasica",
+    "categoria": "Bazaar",
+    "cantidad": 45,
+    "esNacional": true
+  },
+  {
+    "codigo": "B00013",
+    "nombre": "Tapiz de pared",
+    "categoria": "Bazaar",
+    "cantidad": 32,
+    "esNacional": false
+  },
+  {
+    "codigo": "B00014",
+    "nombre": "Adorno de cer\u00e1mica",
+    "categoria": "Bazaar",
+    "cantidad": 71,
+    "esNacional": true
+  },
+  {
+    "codigo": "B00015",
+    "nombre": "Figura de Buda",
+    "categoria": "Bazaar",
+    "cantidad": 12,
+    "esNacional": false
+  }
+]
